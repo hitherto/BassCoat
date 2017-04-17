@@ -86,6 +86,8 @@ Soldered:
 
 **Note! WS2811-powered lights are directional. make _really_ sure you're connecting the "front" end to the Flora before you solder.**
 
+As mentioned before, the soldered connections turned out to be the most problematic part of the project on-Playa. I repaired them a couple of times, but they were definitely fragile. If I'd had more time to test (and re-work if things went horribly wrong), I probably would have tried reinforcing them with a generous layer of hot glue to provide reinforcement for all the flexing a worn garment has to endure.
+
 Sewn:
 
 * Sound Detector VCC -> Flora 3.3v
